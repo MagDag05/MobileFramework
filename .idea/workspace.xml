@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c6b6501-b106-4d10-bb44-3eb7367de5b9" name="Default Changelist" comment="" />
+    <list default="true" id="4c6b6501-b106-4d10-bb44-3eb7367de5b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_github_hi_fi_robotframework_seleniumlibrary_3_141_59_26535.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/MobileFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,28 +18,50 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="C:/opt/git/A3/A3" value="PREVIEW" />
-        <entry key="C:/opt/git/CodingTasks" value="PREVIEW" />
-        <entry key="C:/opt/git/CodingTasks/webstaurantstore" value="PREVIEW" />
-        <entry key="C:/opt/git/Testpro - Java Core/TestproJavaCore/TestWoahstork" value="PREVIEW" />
-        <entry key="C:/opt/git/Testpro - Java Core/TestproJavaCore/Woahstork" value="PREVIEW" />
-        <entry key="C:/opt/git/Testpro - Java Core/TestproJavaCore/deens-automation-2" value="PREVIEW" />
-        <entry key="C:/opt/git/deens-automation" value="PREVIEW" />
-        <entry key="C:/opt/git/latestoldprojects/deens-automation" value="PREVIEW" />
-        <entry key="C:/opt/git/latestoldprojects/deens-automation-2" value="PREVIEW" />
-        <entry key="C:/opt/graphql-java-master" value="PREVIEW" />
-      </map>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1YxtAV0x7lycCvRQJvtTSjyhWvr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="external.system.task.project.file.to.start" value="C:/opt/BA3/TestProBA3" />
     <property name="last_opened_file_path" value="C:/opt/git/CodingTasks" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\MobileFramework" />
+      <recent name="D:\GitHub\MobileFramework\src\test" />
+      <recent name="D:\GitHub\MobileFramework\src\test\java\lib" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -85,10 +115,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="694" y="505" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583905354909">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="694" y="505" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583905354909" />
+    <state x="440" y="154" key="SettingsEditor" timestamp="1583900269764">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="154" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1583900269764" />
     <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583895934903">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="656" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583895934903" />
+    <state x="664" y="473" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583900269302">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="664" y="473" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1160@0.0.1920.1160" timestamp="1583900269302" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
