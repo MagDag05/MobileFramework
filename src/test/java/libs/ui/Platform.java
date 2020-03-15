@@ -30,7 +30,7 @@ public class Platform {
     public RemoteWebDriver getDriver() throws Exception {
         URL URL = new URL(APPIUM_URL);
         if (this.isAndroid()) {
-            return new AndroidDriver<org.openqa.selenium.WebElement>(URL, this.getAndroidDesireCapabilities());
+            return new AndroidDriver<org.openqa.selenium.WebElement>(URL, this.getAndroidDesireCapabilities());}
            else if (this.isIOS()) {
                 return new IOSDriver<org.openqa.selenium.WebElement>(URL, this.getIOSDesireCapabilities());}
            else if (this.isMW()) {
@@ -39,13 +39,13 @@ public class Platform {
            else {throw  new Exception("Can not detect type of driver. Platform value:  " + this.getPlatformVar());}
 
         }
-    }
 
-    private boolean isAndroid() {
+
+    public boolean isAndroid() {
         return isPlatform(PLATFORM_ANDROID);
     }
 
-    private boolean isIOS() {
+    protected boolean isIOS() {
         return isPlatform(PLATFORM_IOS);
     }
 

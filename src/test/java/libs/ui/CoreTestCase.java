@@ -1,5 +1,4 @@
 package libs.ui;
-
 import io.appium.java_client.AppiumDriver;
 import org.openqa.selenium.ScreenOrientation;
 import org.openqa.selenium.remote.RemoteWebDriver;

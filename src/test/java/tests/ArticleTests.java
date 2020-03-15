@@ -1,4 +1,8 @@
 package tests;
 
-public class ArticleTests {
+import libs.ui.CoreTestCase;
+
+public class ArticleTests extends CoreTestCase {
+
+
 }

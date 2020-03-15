@@ -1,5 +1,7 @@
 package tests;
 
-public class MyListsTests {
+import libs.ui.CoreTestCase;
+
+public class MyListsTests extends CoreTestCase {
 
 }

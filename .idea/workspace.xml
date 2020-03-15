@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c6b6501-b106-4d10-bb44-3eb7367de5b9" name="Default Changelist" comment="" />
+    <list default="true" id="4c6b6501-b106-4d10-bb44-3eb7367de5b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/MyListsPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/android/AndroidMyListsPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/libs/ui/CoreTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/libs/ui/CoreTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/libs/ui/MainPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/libs/ui/MainPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/libs/ui/Platform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/libs/ui/Platform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ArticleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ArticleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/FirstTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/MyListsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/MyListsTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -53,6 +69,12 @@
       <recent name="D:\GitHub\MobileFramework" />
       <recent name="D:\GitHub\MobileFramework\src\test" />
       <recent name="D:\GitHub\MobileFramework\src\test\java\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="libs.ui.ios" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\MobileFramework" />
     </key>
   </component>
   <component name="RunManager">
@@ -115,14 +137,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="440" y="154" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1583900269764" />
-    <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583895934903">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1584256422434">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="656" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583895934903" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1584256422434" />
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1584236746998">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1584236746998" />
     <state x="664" y="473" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583900269302">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="664" y="473" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1160@0.0.1920.1160" timestamp="1583900269302" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1584248728209">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1584248728209" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>

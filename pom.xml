@@ -23,12 +23,17 @@
             <version>4.13</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+        <dependency>
+            <groupId>io.appium</groupId>
+            <artifactId>java-client</artifactId>
+            <version>7.3.0</version>
+        </dependency>
 
-    <dependency>
-        <groupId>io.appium</groupId>
-        <artifactId>java-client</artifactId>
-        <version>7.3.0</version>
-    </dependency>
     </dependencies>
 </project>
 
