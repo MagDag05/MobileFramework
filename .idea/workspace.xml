@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6b6501-b106-4d10-bb44-3eb7367de5b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/MyListsPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/android/AndroidMyListsPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/android/AndroidArticlePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/android/AndroidSearchPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/factories/ArticlPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/factories/ArticlePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/factories/MyListPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/factories/SearchPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/factories/SearchPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/ios/IOSArticlePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/ios/IOSMyListsPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/libs/ui/ios/IOSSearchPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ChangeAppConditionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SearchTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/libs/ui/CoreTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/libs/ui/CoreTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/libs/ui/MainPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/libs/ui/MainPageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/libs/ui/Platform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/libs/ui/Platform.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ArticleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ArticleTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/FirstTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/MyListsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/MyListsTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,25 +129,45 @@
       <option name="presentableId" value="Default" />
       <updated>1583895930355</updated>
     </task>
+    <task id="LOCAL-00001" summary="added new pages and code">
+      <created>1584256479991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584256479991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added new pages and code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new pages and code" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="316" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584643231185">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="640" y="316" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1584643231185" />
     <state x="694" y="505" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583905354909">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="694" y="505" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583905354909" />
+    <state x="614" y="174" key="CommitChangelistDialog2" timestamp="1584256479111">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="614" y="174" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1584256479111" />
     <state x="440" y="154" key="SettingsEditor" timestamp="1583900269764">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="440" y="154" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1583900269764" />
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1584256422434">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1585281682562">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1584256422434" />
-    <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1584236746998">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1585281682562" />
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1585281643225">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="656" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1584236746998" />
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1585281643225" />
     <state x="664" y="473" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583900269302">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
